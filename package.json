@@ -1,0 +1,10 @@
+{
+  "name": "Desktop_Live_Stream",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "log": "*",
+    "nodemon": "^1.9.1",
+    "socket.io": "*"
+  }
+}
